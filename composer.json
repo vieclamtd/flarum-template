@@ -1,0 +1,16 @@
+{ "name": "vieclamtd/flarum-template", "description": 
+  "Flarum Template Chuẩn SEO cho vieclamthuduc.com", 
+  "type": "project", "require": {
+    "flarum/core": "^1.8", "flarum/lang-english": 
+    "^1.8", "flarum/tags": "^1.8", "flarum/likes": 
+    "^1.8", "flarum/lock": "^1.8", 
+    "flarum/statistics": "^1.8", "flarum/suspend": 
+    "^1.8", "flarum/flarum-ext-english": "^1.0"
+  },
+  "config": { "preferred-install": "dist", 
+    "sort-packages": true, "optimize-autoloader": 
+    true
+  },
+  "minimum-stability": "beta", "prefer-stable": true
+}
+
